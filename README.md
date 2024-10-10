@@ -33,4 +33,4 @@ L'exercice consiste à transformer le site web de **SOS-Services** en un site mu
 
 ## Auteur
 
-Projet développé par **[Abderrahmane Rabeh]** dans le cadre de la refonte du site web de **SOS-Services**.
+Projet développé par **Abderrahmane Rabeh** dans le cadre de la refonte du site web de **SOS-Services**.
